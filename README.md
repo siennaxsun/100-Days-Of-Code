@@ -14,7 +14,7 @@ Each day’s exercises are in separate folders:
 ## Progress 
 - **Currently completed:** Day 1 → Day 27  
 - I will continue updating this repository as I progress through the course.
-![Progress Badge](https://img.shields.io/badge/Progress-Day%2030-blue)
+![Progress Badge](https://img.shields.io/badge/Progress-Day%2027-blue)
 
 
 ## 🔮 Future Plans
