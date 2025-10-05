@@ -1,6 +1,6 @@
 # 100 Days of Code
 
-This repository contains my solutions and exercises from the **Udemy 100 Days of Code Python Bootcamp**.  
+This repository contains my solutions and exercises from the **Udemy 100 Days of Code Python Bootcamp** https://www.udemy.com/course/100-days-of-code/?couponCode=25BBPMXINACTIVE.  
 
 ## Progress 
 - This repo will be updated as I continue through the course.
